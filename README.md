@@ -67,7 +67,7 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 * After you have successfully added your own card to the DOM, we will get a list of your followers and programmatically add cards for them as well. Follow the instructions in GitHubCard/index.js.
 
-### Part 4: Exit Ticket 
+### Part 4: Exit Ticket r
 
 Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/J2kBzdr6YLLjXzP8N/7JLwsLBKeWdAFp).
 
